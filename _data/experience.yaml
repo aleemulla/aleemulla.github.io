@@ -1,0 +1,35 @@
+experiences:
+
+- place: "Texas A&M University"
+  time: "Aug 2019 - now"
+  title: "Ph.D. Student"
+  subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a> <br/> Computer Science & Engineering"
+  category: "school"
+  
+  
+- place: "Meta AI"
+  time: "Summer 2022"
+  title: "Research Intern"
+  subtitle: "Mentor: <a href='https://www.linkedin.com/in/xing-wang-49369620'>Xing Wang</a>"
+  category: "work"
+  
+- place: "Fujitsu Research of America"
+  time: "Summer 2021"
+  title: "Research Intern"
+  subtitle: "Mentor: <a href='https://www.fujitsu.com/us/about/businesspolicy/tech/rd/research-staff/kanjiuchino.html'>Kanji Uchino</a>"
+  category: "work"
+  
+  
+- place: "Tsinghua University"
+  time: "Aug 2015 - Jul 2019"
+  title: "B.E. Student"
+  subtitle: "Advisor: <a href='http://oa.ee.tsinghua.edu.cn/~pengliangrui/index.htm'>Prof. Liangrui Peng</a> <br/> Electronic Engineering"
+  category: "school"
+  
+- place: "Owlii"
+  time: "Summer 2018"
+  title: "R&D Intern"
+  subtitle: "Mentor: <a href='https://cn.linkedin.com/in/yi-xu-a3676b105'>Yi Xu</a>"
+  category: "work"
+
+
