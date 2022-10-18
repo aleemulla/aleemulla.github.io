@@ -4,10 +4,10 @@ news:
 # - title: "<a href='https://gitlab.com/LMSAL_HUB/aia_hub/aiapy'>aiapy</a> is now citeable! <b>available at <a href='https://zenodo.org/record/4016983#.X1gmHGdKhMN'>Zenodo</a></b>"
 #  date: "09/2020"
 
-- title: "I was recognized as an outstanding reviewer and served as a session chair at ICML2022."
-  date: "7/2022"
+- title: "Attended 05 days workshop on <a href='https://nheri-simcenter.github.io/SimCenter_DesignSafe_ML_2022/source/lecture_videos.html'>Machine Learning Training for Natural Hazards Engineering by NHERI & DesignSafe SimCenter</a>."
+  date: "9/2022"
 
-- title: "Our paper <a href='https://arxiv.org/abs/2204.09410'>Generating 3D Molecules for Target Protein Binding</a> has been accepted to <b>ICML 2022</b> as a <b>Long Presentation</b>."
+- title: "Attended 02 days workshop on <b>Engineering based fragility and vulnerability assessment</b> offered by <b>EPICenter UCL</b> and <b>UNESCO Chair</b> - <a href='https://www.youtube.com/watch?v=rgS4XkcslhM'>Recording Day 1</a> <a href='https://www.youtube.com/watch?v=DqIbE-SDGZg'>Recording Day 2</a>."
   date: "5/2022"
   
 - title: "Our paper <a href='https://mengliu1998.github.io'>GraphFM: Improving Large-Scale GNN Training via Feature Momentum</a> has been accepted to <b>ICML 2022</b>."
