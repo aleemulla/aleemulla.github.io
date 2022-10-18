@@ -14,18 +14,11 @@ papers:
     authors: "<b>Aleem Ullah</b>, Jung Wuk Hong"
     venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
     paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
+    #code: "https://github.com/divelab/MoleculeX/tree/molx/AdvProp"
+    #supplement: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_btac112/1/btac112_supplementary_data.pdf?Expires=1648239547&Signature=eWeGB10TLZc9UVmVaCNrfiZ-M6MbHAiu60DoGHF~epwdvkyF19xe0nsSBTcqjuyiOEh0oZNjrAqEsnPgMn~tXqodt9N~U22G6wVPenoHTYQoqBHAoXoKgQ~JG2js7Vt5cWDjdomY9AmxfC0L78P6QOFFpuCZXb3XR31zDKStXz2FFCotov3Bz8O6X2YG6XRsY5GrFIR0WKpcz8dRnusXLFLLlcaERDcR1S2ShAxnPV5Yeb~xlCWYat5nSMr5MbXsGihg5eR2HQD3VmD8RSvGUSIrEpbP5aIsk7GrTdbazDYFe5ccdImOxYMC6e2NlA22Kp0vtV0yCmMvAqcjXFeOQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
     img: "/assets/imgs/conf_blast.png"
     selected: y
-
-  - title: "Advanced graph and sequence neural networks for molecular property prediction and drug discovery"
-    authors: "Zhengyang Wang*, <b>Meng Liu*</b>, Youzhi Luo*, Zhao Xu*, Yaochen Xie*, Limei Wang*, Lei Cai*, Qi Qi, Zhuoning Yuan, Tianbao Yang, and Shuiwang Ji"
-    venue: "<b>Bioinformatics</b>, 2022"
-    paper_pdf: "https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac112/6531963"
-    code: "https://github.com/divelab/MoleculeX/tree/molx/AdvProp"
-    supplement: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_btac112/1/btac112_supplementary_data.pdf?Expires=1648239547&Signature=eWeGB10TLZc9UVmVaCNrfiZ-M6MbHAiu60DoGHF~epwdvkyF19xe0nsSBTcqjuyiOEh0oZNjrAqEsnPgMn~tXqodt9N~U22G6wVPenoHTYQoqBHAoXoKgQ~JG2js7Vt5cWDjdomY9AmxfC0L78P6QOFFpuCZXb3XR31zDKStXz2FFCotov3Bz8O6X2YG6XRsY5GrFIR0WKpcz8dRnusXLFLLlcaERDcR1S2ShAxnPV5Yeb~xlCWYat5nSMr5MbXsGihg5eR2HQD3VmD8RSvGUSIrEpbP5aIsk7GrTdbazDYFe5ccdImOxYMC6e2NlA22Kp0vtV0yCmMvAqcjXFeOQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-    img: "/assets/imgs/AdvProp_overview.png"
-    selected: y
-    note: "<b style='color:red !important;'> Rank #1 on <a href='https://www.aicures.mit.edu'>AI Cures open challenge for COVID-19</a> </b>"
+    #note: "<b style='color:red !important;'> Rank #1 on <a href='https://www.aicures.mit.edu'>AI Cures open challenge for COVID-19</a> </b>"
 
   - title: "Spherical Message Passing for 3D Molecular Graphs"
     authors: "Yi Liu*, Limei Wang*, <b>Meng Liu</b>, Yuchao Lin, Xuan Zhang, Bora Oztekin, and Shuiwang Ji"
