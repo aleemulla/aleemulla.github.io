@@ -15,7 +15,7 @@ papers:
     venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
     paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
     # code: "https://mengliu1998.github.io"
-    img: "/assets/imgs/conf_blast01.png"
+    img: "/assets/imgs/conf_blast.png"
     selected: y
 
   - title: "Advanced graph and sequence neural networks for molecular property prediction and drug discovery"
