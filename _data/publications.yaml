@@ -1,13 +1,13 @@
 papers:
 
-  - title: "Generating 3D Molecules for Target Protein Binding"
-    authors: "<b>Meng Liu</b>, Youzhi Luo, Kanji Uchino, Koji Maruhashi, and Shuiwang Ji"
-    venue: "International Conference on Machine Learning (<b>ICML</b>), 2022"
-    paper_pdf: "https://arxiv.org/abs/2204.09410"
-    code: "https://github.com/divelab/GraphBP"
-    img: "/assets/imgs/GraphBP.png"
+  - title: "Review of Analytical and Empirical Estimations for Incident Blast Pressure"
+    authors: "<b>Aleem Ullah</b>, Furqan Ahmad, Heung Woon Jang, Sung-Wook Kim, and Jung Wuk Hong"
+    venue: "KSCE Journal of Civil Engineering, 2017"
+    paper_pdf: "https://link.springer.com/article/10.1007/s12205-016-1386-4"
+    # code: "https://github.com/divelab/GraphBP"
+    img: "/assets/imgs/pub_blast.png"
     selected: y
-    note: "<b style='color:red !important;'>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
+    # note: "<b style='color:red !important;'>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
     # note: "<b>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
 
   - title: "GraphFM: Improving Large-Scale GNN Training via Feature Momentum"
