@@ -14,7 +14,6 @@ papers:
     authors: "<b>Aleem Ullah</b>, Jung Wuk Hong"
     venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
     paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
-    # code: "https://mengliu1998.github.io"
     img: "/assets/imgs/conf_blast.png"
     selected: y
 
