@@ -25,7 +25,7 @@ papers:
     venue: "International Conference on Learning Representations (<b>ICLR</b>), 2022"
     paper_pdf: "https://openreview.net/forum?id=givsRXsOt9r"
     code: "https://github.com/divelab/DIG/blob/dig/examples/threedgraph/threedgraph.ipynb"
-    img: "/assets/imgs/blast.png"
+    img: "/assets/imgs/minar.png"
     selected: y
     
   - title: "Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences"
