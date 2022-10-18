@@ -10,12 +10,12 @@ papers:
     # note: "<b style='color:red !important;'>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
     # note: "<b>Oral/Long Presentation</b> (118/5630=2.1% acceptance rate)"
 
-  - title: "GraphFM: Improving Large-Scale GNN Training via Feature Momentum"
-    authors: "Haiyang Yu*, Limei Wang*, Bokun Wang*, <b>Meng Liu</b>, Tianbao Yang, and Shuiwang Ji"
-    venue: "International Conference on Machine Learning (<b>ICML</b>), 2022"
-    paper_pdf: "https://mengliu1998.github.io"
-    code: "https://mengliu1998.github.io"
-    img: "/assets/imgs/GraphFM-OB.png"
+  - title: "Review of Analytical and Empirical Estimation of Blast Effect"
+    authors: "<b>Aleem Ullah</b>, Jung Wuk Hong"
+    venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
+    paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
+    # code: "https://mengliu1998.github.io"
+    img: "/assets/imgs/conf_blast01.png"
     selected: y
 
   - title: "Advanced graph and sequence neural networks for molecular property prediction and drug discovery"
