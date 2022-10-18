@@ -20,12 +20,12 @@ papers:
   #  selected: y
   #  note: "<b style='color:red !important;'> Rank #1 on <a href='https://www.aicures.mit.edu'>AI Cures open challenge for COVID-19</a> </b>"
 
-  - title: "Spherical Message Passing for 3D Molecular Graphs"
-    authors: "Yi Liu*, Limei Wang*, <b>Meng Liu</b>, Yuchao Lin, Xuan Zhang, Bora Oztekin, and Shuiwang Ji"
-    venue: "International Conference on Learning Representations (<b>ICLR</b>), 2022"
-    paper_pdf: "https://openreview.net/forum?id=givsRXsOt9r"
-    code: "https://github.com/divelab/DIG/blob/dig/examples/threedgraph/threedgraph.ipynb"
-    img: "/assets/imgs/minar.png"
+  - title: "Review of analytical and empirical estimations of blast effect"
+    authors: "<b>Aleem Ullah</b>, Jung Wuk Hong"
+    venue: "International Conference On Computational and Experimental Engineering (<b>ICCEES</b>), 2014"
+    paper_pdf: "https://koasas.kaist.ac.kr/handle/10203/222582"
+    # code: "https://github.com/divelab/DIG/blob/dig/examples/threedgraph/threedgraph.ipynb"
+    img: "/assets/imgs/conf_blast.jpg"
     selected: y
     
   - title: "Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences"
