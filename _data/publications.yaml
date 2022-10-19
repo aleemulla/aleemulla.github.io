@@ -34,7 +34,7 @@ papers:
     paper_pdf: "https://www.researchgate.net/publication/353325419_Validation_of_LS-DYNA_LBE_with_Analytical_and_Empirical_Estimations_of_Incident_Blast_Pressure"
     # code: "https://github.com/divelab/Neighbor2Seq"
     # supplement: "https://github.com/divelab/Neighbor2Seq/blob/main/Neighbor2Seq_SDM2022_supp.pdf"
-    img: "/assets/imgs/conf_valid.png"
+    img: "/assets/imgs/conf_valid.jpg"
     selected: y
 
   - title: "Non-Local Graph Neural Networks"
