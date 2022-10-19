@@ -37,13 +37,13 @@ papers:
     img: "/assets/imgs/conf_valid.jpg"
     selected: y
 
-  - title: "Non-Local Graph Neural Networks"
-    authors: "<b>Meng Liu*</b>, Zhengyang Wang*, and Shuiwang Ji"
-    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2021"
-    paper_pdf: "https://ieeexplore.ieee.org/document/9645300"
-    code: "https://github.com/divelab/Non-Local-GNN"
-    literature_collection: "https://github.com/mengliu1998/DL4DisassortativeGraphs"
-    img: "/assets/imgs/NLGNN.png"
+  - title: "RC Beam-Column joint models for progressive collapse simulation"
+    authors: "<b>Aleem Ullah</b>, Jung Jaewook, and Jung Wuk Hong"
+    venue: "KIBSE Annual Meeting and Conference, 2014"
+    paper_pdf: "https://www.researchgate.net/publication/353331166_Review_of_RC_beam_column_joint_models_in_progressive_collapse"
+    #code: "https://github.com/divelab/Non-Local-GNN"
+    #literature_collection: "https://github.com/mengliu1998/DL4DisassortativeGraphs"
+    img: "/assets/imgs/conf_joint.jpg"
     selected: y
 
   - title: "Fast Quantum Property Prediction via Deeper 2D and 3D Graph Networks"
